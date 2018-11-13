@@ -6,3 +6,5 @@ def my_collect(array)
 end
 return array
 end
+
+my_collect(["why", "does", "this", "matter"])
